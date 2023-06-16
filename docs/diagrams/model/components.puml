@@ -1,0 +1,7 @@
+@startuml
+
+save - [PlayerJpaRepository]
+getById - [PlayerJpaRepository]
+
+
+@enduml
